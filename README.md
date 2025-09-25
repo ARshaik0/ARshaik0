@@ -1,4 +1,4 @@
-![MasterHead](<img width="1584" height="396" alt="Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (8)" src="https://github.com/user-attachments/assets/d9fd9ff2-051a-4d0c-a0a2-2f899f06a778" />
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQE3ckPKNSJVvQ/profile-displaybackgroundimage-shrink_350_1400/B4EZlXMkvAK0AY-/0/1758104538867?e=1761782400&v=beta&t=Irz3xZmUTt4ftu4ozPVeZrSfU7WFDJgQNqJao8mtwXo
 )
 <h1 align="center">Hi 👋, I'm AR 💀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
