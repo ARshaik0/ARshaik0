@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/ARshaik0/AR/blob/main/Picsart_24-10-17_20-58-20-304.png)
+![MasterHead](<img width="1584" height="396" alt="Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (8)" src="https://github.com/user-attachments/assets/d9fd9ff2-051a-4d0c-a0a2-2f899f06a778" />
+)
 <h1 align="center">Hi 👋, I'm AR 💀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
