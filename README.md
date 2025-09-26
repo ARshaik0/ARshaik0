@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQE3ckPKNSJVvQ/profile-displaybackgroundimage-shrink_350_1400/B4EZlXMkvAK0AY-/0/1758104538867?e=1761782400&v=beta&t=Irz3xZmUTt4ftu4ozPVeZrSfU7WFDJgQNqJao8mtwXo
 )
-<h1 align="center">Hi 👋, I'm AR 💀</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abdul Rahman Shaik</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshaik0&label=Profile%20views&color=0e75b6&style=flat" alt="arshaik0" /> </p>
